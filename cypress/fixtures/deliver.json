@@ -1,0 +1,51 @@
+{
+"singnup":{
+    "name": "Lucas",
+    "cpf":"00000014141",
+    "email":"lucas@gmail.com",
+    "whatsapp":"11999999999",
+    "adress": { 
+        "postalcode": "03615000",
+        "street": "Rua São Florêncio",
+        "number": "511",
+        "details": "Casa",
+        "district": "Vila Feliz",
+        "city_state": "São Paulo/SP"
+    },
+    "delivery_method":"Moto",
+    "cnh":"cnh-digital.jpg"
+    },
+
+    "cpf_invalido":{
+    "name": "Teste Cpf Invalido",
+    "cpf":"000000141AA",
+    "email":"cpfInvalido@gmail.com",
+    "whatsapp":"11999999999",
+    "adress": { 
+        "postalcode": "03615000",
+        "street": "Rua São Florêncio",
+        "number": "511",
+        "details": "Casa",
+        "district": "Vila Feliz",
+        "city_state": "São Paulo/SP"
+    },
+    "delivery_method":"Moto",
+    "cnh":"cnh-digital.jpg"
+    },
+    "email_invalido":{
+        "name": "Lucas",
+        "cpf":"00000014141",
+        "email":"lucas.com.br",
+        "whatsapp":"11999999999",
+        "adress": { 
+            "postalcode": "03615000",
+            "street": "Rua São Florêncio",
+            "number": "511",
+            "details": "Casa",
+            "district": "Vila Feliz",
+            "city_state": "São Paulo/SP"
+        },
+        "delivery_method":"Moto",
+        "cnh":"cnh-digital.jpg"
+        }
+}
